@@ -8,7 +8,7 @@ font-style: normal;
 font-weight: normal; 
 } 
 h4{
-font-family: "Hermes";
+font-family: Hermes, 'Comic Sans MS';
 }
 .mediaViewInfo {
 	--web-view-name: Web 1920 – 1;
